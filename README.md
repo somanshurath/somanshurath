@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello There... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi. I’m Somanshu Rath, a Computer Science student at BITS Pilani - Goa Campus.
 
 <!--
 **somanshurath/somanshurath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
