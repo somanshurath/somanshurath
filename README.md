@@ -3,10 +3,10 @@ Hi. I’m Somanshu Rath, a Computer Science student at BITS Pilani - Goa Campus.
 <table>
   <tr>
     <td>
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somanshurath&theme=dracula" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somanshurath&theme=github_dark" />
     </td>
     <td>
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=somanshurath&theme=gotham&howicons=true"/>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=somanshurath&theme=github_dark&howicons=true&show_icons=true&hide=stars,contribs"/>
     </td>
   </tr>
  <table>
