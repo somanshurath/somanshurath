@@ -1,5 +1,8 @@
-## Hello There... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi. I’m Somanshu Rath, a Computer Science student at BITS Pilani - Goa Campus.
+## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Somanshu Rath.
+### Glad to see you here!
+I'm a undergraduate in Computer Science 🎓 from BITS-Pilani Goa Campus 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I'm currently into Web Development.
+
+Joined Github **1** year ago.
 <table>
   <tr>
     <td>
