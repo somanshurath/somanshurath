@@ -9,9 +9,11 @@ Joined Github **1** year ago.
     <td>
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somanshurath&theme=github_dark" />
     </td>
+    <!--
     <td>
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=somanshurath&theme=github_dark&howicons=true&show_icons=true&hide=stars,contribs"/>
     </td>
+    -->
   </tr>
  <table>
 <!--
