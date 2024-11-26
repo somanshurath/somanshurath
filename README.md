@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi, I'm Somanshu!</h1>
 
-<a href="somanshu.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red"></a>
+<a href="mailto:somanshu.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red"></a>
 <a href="https://linkedin.com/in/somanshurath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blue"></a>
 
 ## About Me
