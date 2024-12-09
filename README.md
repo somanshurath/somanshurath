@@ -1,8 +1,9 @@
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <h3>Hi, I'm Somanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" padding-bottom="0"> </h3>
 
-<a href="mailto:somanshu.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red"></a>
-<a href="https://linkedin.com/in/somanshurath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blue"></a>
+<a href="mailto:somanshu.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&color=red"></a>
+<a href="https://discordapp.com/users/1293131857822617602"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
+<a href="https://linkedin.com/in/somanshurath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&color=blue"></a>
 
 <p>
   Undergraduate @ CSE <a href='https://www.bits-pilani.ac.in/goa/computer-science-information-systems/'>BITS Pilani</a><br>
