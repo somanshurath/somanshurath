@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/somanshurath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&color=blue"></a>
 
 <p>
-  Undergraduate @ CSE <a href='https://www.bits-pilani.ac.in/goa/computer-science-information-systems/'>BITS Pilani</a><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somanshurath&" alt="somanshurath" />
 </p>
 
 <!--
