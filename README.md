@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/somanshurath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&color=blue"></a>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somanshurath&" alt="somanshurath" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somanshurath&theme=ambient-gradient" alt="somanshurath" />
 </p>
 
 <!--
